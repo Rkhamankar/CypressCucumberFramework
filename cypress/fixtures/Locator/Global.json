@@ -1,0 +1,10 @@
+{
+    "signIn":".panel.header a[href*='/account/login']",
+    "createAccountLink":".panel.header a[href*='/account/create']",
+    "lumaLogo":".logo[title]",
+    "welcomeText":".greet.welcome .logged-in",
+    "customerMenu":"[data-action='customer-menu-toggle']",
+    "myAccountMenu":".customer-menu a[href*='customer/account/']",
+    "createAccountBtn":".action.submit.primary"
+
+}

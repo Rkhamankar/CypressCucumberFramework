@@ -1,0 +1,8 @@
+{
+    "fName":"#firstname",
+    "lName":"#lastname",
+    "password":"input#password",
+    "confirmPwd":"#password-confirmation",
+    "emailId":"#email_address",
+    "createAccountBtn":".action.submit.primary"
+}
