@@ -3,6 +3,7 @@ Feature: User Account Creation and Login
     Background:
         Given User navigate to LUMA application
 
+    @rk
     Scenario: Verify user account creation process
         Given User click on create my account link
         When User enters First Name "fName"
