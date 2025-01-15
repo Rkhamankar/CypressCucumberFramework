@@ -14,4 +14,8 @@ export class SignInPage {
         cy.get(this.locator.signInBtn).click();
     }
 
+    gitAction(){
+        cy.get("abc").click();
+    }
+
 }
