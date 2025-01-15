@@ -17,5 +17,9 @@ export class SignInPage {
     gitAction(){
         cy.get("abc").click();
     }
+    
+    gitconflictAction() {
+        cy.get("xyz").type("Rahul");
+    }
 
 }
