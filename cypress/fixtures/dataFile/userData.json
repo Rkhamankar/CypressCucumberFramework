@@ -8,6 +8,11 @@
     "welcomeText":"Welcome",
     "text1":"text1",
     "text2":"text2", 
+<<<<<<< HEAD
     "text3":"text3", 
     "text4":"text4" 
+=======
+    "text3":"text3",
+    "text6":"text7"   
+>>>>>>> master
 }
